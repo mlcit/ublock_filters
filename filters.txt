@@ -10,3 +10,5 @@ www.lupa.cz##.promo
 www.root.cz##.promo
 
 ||www.heureka.cz/direct/bannery/*
+
+www.linuxexpres.cz###reklama-top
