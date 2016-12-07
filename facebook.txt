@@ -1,0 +1,7 @@
+# Facebook Lite
+# Last updated: 2016-12-07
+
+www.facebook.com###aymt_homepage_panel_tip
+www.facebook.com##._khw
+www.facebook.com###pagelet_games_rhc
+www.facebook.com###pagelet_composer
