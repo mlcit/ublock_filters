@@ -20,3 +20,8 @@ www.alza.cz###alzaBenefits
 www.tsbohemia.cz###skyscraper:nth-of-type(4)
 www.tsbohemia.cz###skyscraper:nth-of-type(3)
 www.tsbohemia.cz##.topbar-strip:nth-of-type(1)
+
+www.edna.cz##.skyscraper.banner
+www.edna.cz###rss-hub-case
+www.edna.cz###content > div:nth-child(3) > div.col.col-side > div:nth-child(3) > div.head
+www.edna.cz###content > div:nth-child(3) > div.col.col-side > div:nth-child(3) > div.text.banner
