@@ -1,0 +1,8 @@
+
+||www.zive.cz/D*
+
+www.lupa.cz##.page__content > div:nth-of-type(2)
+www.lupa.cz##.page-block--ad_square1 > div:nth-of-type(1) > div:nth-of-type(1)
+www.lupa.cz##.promo
+
+www.root.cz##.promo
