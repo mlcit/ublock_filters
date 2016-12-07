@@ -1,3 +1,5 @@
+# Filters for uBlock
+# Last updated: 2016-12-07
 
 ||www.zive.cz/D*
 
