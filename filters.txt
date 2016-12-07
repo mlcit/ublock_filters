@@ -12,3 +12,7 @@ www.root.cz##.promo
 ||www.heureka.cz/direct/bannery/*
 
 www.linuxexpres.cz###reklama-top
+
+www.alza.cz###articleContainer > article > section
+www.alza.cz##.ear
+www.alza.cz###alzaBenefits
