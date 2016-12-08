@@ -34,3 +34,5 @@ videacesky.cz###barAgreeWithCookies
 videacesky.cz###cboxOverlay
 videacesky.cz###colorbox
 videacesky.cz##.advert
+videacesky.cz##.sBlock
+videacesky.cz##.items:style(width: 100% !important;)
