@@ -29,3 +29,8 @@ www.edna.cz##.skyscraper.banner
 www.edna.cz###rss-hub-case
 www.edna.cz###content > div:nth-child(3) > div.col.col-side > div:nth-child(3) > div.head
 www.edna.cz###content > div:nth-child(3) > div.col.col-side > div:nth-child(3) > div.text.banner
+
+videacesky.cz###barAgreeWithCookies
+videacesky.cz###cboxOverlay
+videacesky.cz###colorbox
+videacesky.cz##.advert
