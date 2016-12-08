@@ -1,7 +1,7 @@
 # Filters for uBlock
 # Last updated: 2016-12-07
 
-||www.zive.cz/D*
+www.zive.cz## form[method="post"]> div[class*="0"]
 
 www.lupa.cz##.page__content > div:nth-of-type(2)
 www.lupa.cz##.page-block--ad_square1 > div:nth-of-type(1) > div:nth-of-type(1)
