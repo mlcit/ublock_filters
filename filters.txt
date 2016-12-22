@@ -42,5 +42,4 @@ videacesky.cz##.items:style(width: 100% !important;)
 ! Scripts in videacesky.cz
 ||staticxx.facebook.com
 ||connect.facebook.net
-||advantage.as
 ||c-prolink2.mf.cz
