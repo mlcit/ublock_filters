@@ -9,9 +9,12 @@ www.mobilmania.cz## body:style(background: #eee !important;)
 
 technet.idnes.cz###idnes-premium-popup
 
+www.lupa.cz###sefa
+www.lupa.cz##.body__content > div:nth-of-type(2)
 www.lupa.cz##.page__content > div:nth-of-type(2)
 www.lupa.cz##.page-block--ad_square1 > div:nth-of-type(1) > div:nth-of-type(1)
 www.lupa.cz##.promo
+||lupa.cz^$inline-script
 
 www.root.cz##.promo
 
