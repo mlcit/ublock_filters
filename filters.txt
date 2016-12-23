@@ -1,5 +1,5 @@
 # Filters for uBlock
-# Last updated: 2016-12-22
+# Last updated: 2016-12-23
 
 www.zive.cz## form[method="post"]> div[class*="0"]
 www.zive.cz## body:style(background: #eee !important;)
@@ -8,6 +8,14 @@ www.mobilmania.cz## form[method="post"]> div[class*="0"]
 www.mobilmania.cz## body:style(background: #eee !important;)
 
 technet.idnes.cz###idnes-premium-popup
+technet.idnes.cz###main > table:nth-of-type(1)
+technet.idnes.cz##.col-b > div:nth-of-type(2)
+technet.idnes.cz##.col-b > div:nth-of-type(3)
+technet.idnes.cz##.col-b > div:nth-of-type(4)
+technet.idnes.cz##.col-b > div:nth-of-type(5)
+technet.idnes.cz##body:style(background: #eee !important;)
+technet.idnes.cz##html:style(background: #eee !important;)
+||technet.idnes.cz/*^$inline-script
 
 www.lupa.cz###sefa
 www.lupa.cz##.body__content > div:nth-of-type(2)
